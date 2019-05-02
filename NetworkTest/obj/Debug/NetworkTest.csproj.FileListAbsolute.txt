@@ -1,0 +1,7 @@
+D:\Object\NetworkTest\NetworkTest\bin\Debug\NetworkTest.exe.config
+D:\Object\NetworkTest\NetworkTest\bin\Debug\NetworkTest.exe
+D:\Object\NetworkTest\NetworkTest\bin\Debug\NetworkTest.pdb
+D:\Object\NetworkTest\NetworkTest\obj\Debug\NetworkTest.csprojAssemblyReference.cache
+D:\Object\NetworkTest\NetworkTest\obj\Debug\NetworkTest.csproj.CoreCompileInputs.cache
+D:\Object\NetworkTest\NetworkTest\obj\Debug\NetworkTest.exe
+D:\Object\NetworkTest\NetworkTest\obj\Debug\NetworkTest.pdb
